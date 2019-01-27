@@ -10,7 +10,7 @@ A C# tool that mimics the grep command found in linux based operating systems.
 ### Installing from Binaries
 
 1. Go to the [releases](https://github.com/Fhoughton/GrepSharp/releases) page
-2. Download the most recent release
+2. [Download](https://github.com/Fhoughton/GrepSharp/releases/download/v1.1/GrepSharp.rar) the most recent release
 3. Extract the zip file
 4. Run GrepSharp.exe
 
